@@ -2,6 +2,11 @@
   "Issue line": "שורת תקלה",
   "Grid Features": "אפשרויות טבלה",
   "No data available": "אין נתונים זמינים",
- "Register issues":"רישום תקלות"
+ "Register issues":"רישום תקלות",
+ "Issue Entry - Customer order deliveries":"רישום תקלה - משלוחי הזמנות לקוח",
+ "Dely no": "מס' משלוח",
+ "Del qty aU": "כמות שנשלחה",
+ "Pl del": "ת. משלוח",
+ "Customer order deliveries": "משלוחי הזמנות לקוח"
   
 }
